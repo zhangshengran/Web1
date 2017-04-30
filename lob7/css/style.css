@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{font-size:12px;
+     font-family:Arial;
+	 color:#CCC;
+	 line-height:2em;
+	 
+    }
+a:  {
+	color:#727272;
+	link:text-decoration:none;
+	hover:text-decoration:underline;
+	
+	}	 
+.lanmucaidan{
+	font-size:14px;
+	color:#b9f605;
+	font-weight:bolder;
+	hover:color:#b9f605;
+	
+	}
