@@ -1,0 +1,19 @@
+    body{
+	text-align:center;
+	background-image: url(images/bodybg.gif);
+	color:#522a06;
+	font-size:12px;
+	padding:none;
+	font-family:
+	
+	}
+	#header{
+		height:205px;
+	    text-align:center;
+		}
+	#banner{
+		width:1000px;
+		height:164px;
+		text-align:center;
+		}
+		
