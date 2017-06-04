@@ -1,0 +1,84 @@
+body{
+	text-align:center;
+	background-image: url(../images/bodybg.gif);
+	color:#522a06;
+	font-size:12px;
+	padding:none;
+	font-family:
+	
+	}
+#header{
+		height:205px;
+	 text-align:center;
+	 background-position:center;
+			float:left;
+		}
+#banner{
+	width: 1000px;
+	height: 164px;
+	position: absolute;
+	left: -112px;
+	top: 38px;		
+		}
+.banner2{
+	float:left;
+	position:absolute;
+	
+	left:150px;
+	}
+#nav{
+			width:1000px;
+			text-align:center;
+			height:40px;width:100%;
+			background-image:url(../images/nav.jpg)
+			}
+ .nav-body{
+				width:1000px;
+				text-align:center;			
+				}
+.nav-content{
+	width:800px;
+	color:#fff;
+	text-height: font-size;
+	float:left;
+	text-align:center;
+	
+	}
+.nav-content ul li{list-style-type:none;
+                   display:inline;
+				   font-size:17px;
+}
+.nav-serach{
+	float:left;
+	position:relative;
+	top:10px;
+	left:80px
+	}
+	#content{
+		width:900px;
+		}
+	.content-zuo{
+		font-size:12px;
+		float:left;
+		width:800px;
+		}
+	.content-you{
+		width:300px;
+		float: left;
+		list-style-type:none;
+		}
+	.content-shang{
+		text-align:left;
+		width:100%;
+		}
+#footer{
+	clear:both;
+	background-image: url(../images/fengcai_bg2.png)
+         width:1100px;	 
+ }
+ #footer ol li{list-style-type: none;
+ float:left;
+ }
+ .footerliebieao{
+	 text-align:center;
+	 }
